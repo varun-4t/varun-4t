@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Varun Tahiliani</h1>
-<h3 align="center">A Eager Learner from India</h3>
+<h3 align="center">A Eager Learner</h3>
 
 - 📫 How to reach me **varrun04@gmail.com**
 
